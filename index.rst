@@ -23,7 +23,7 @@ Setiap sesi berisi teori dan latihan hands-on di Nutanix Enterprise Cloud platfo
 
 
 
-Level: Dasar (Basic)
+Level: **Dasar(Basic)**
 
 
 Lab Access User Credentials
@@ -98,8 +98,11 @@ Detail Environment
 
 
 
+
+
+
 Pendahuluan
-+++++++++++
+------------
 
 New to Nutanix and AHV? This lab is for you!
 
