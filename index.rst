@@ -2,11 +2,97 @@
 
 .. _nutanix101:
 
-------------------------
-Nutanix 101
-------------------------
+--------------------------------
+Nutanix Datacenter Modernization
+--------------------------------
 
 *The estimated time to complete this lab is 60 minutes.*
+
+Selamat datang di sesi Hands on Lab Nutanix Datacenter Modernization @.NEXT on Tour Jakarta!.
+
+Setiap sesi berisi teori dan latihan hands-on di Nutanix Enterprise Cloud platform. Instruktur akan membantu sesi latihan dan menjawab pertanyaan yang ada. Di akhir Bootcamp, perserta akan mengerti konsep dan teknologi stack Nutanix Enterprise Cloud.
+
+Level: Dasar (Basic)
+
+
+Lab Access User Credentials
+---------------------------
+
+Lab dapat diakses melalui Pulse Secure VPN Client. Gunakan credential dibawah ini untuk login ke Pulse Secure VPN.
+
+- VPN User Accounts: PHX-POC025-User01, PHX-POC025-User02 … PHX-POC025-User20 etc.
+- VPN User Password: nut4nixP@ssw0rd
+
+**Pulse Secure VPN Client**
+
+1. If client already installed skip to step 5
+2. To download the client, login to https://xlv-uswest1.nutanix.com or https://xlv-useast1.nutanix.com using the supplied user credentials
+3. Download and install client
+4. Logout of the Web UI
+5. Open client and ADD a connection with the following details:
+
+   - Type: **Policy Secure (UAC) or Connection Server(VPN)**
+   - Name: **X-Labs - PHX**
+   - Server URL: **xlv-uswest1.nutanix.com**
+
+   OR
+
+   - Type: **Policy Secure (UAC) or Connection Server(VPN)**
+   - Name: **X-Labs - RTP**
+   - Server URL: **xlv-useast1.nutanix.com**
+
+6. Once setup, login with the supplied credentials
+
+
+Detail Environment
+++++++++++++++++++
+
+Nutanix Workshops dirancang untuk lingkungan Nutanix Hosted POC, dimana semua images, network dan VMs yang diperlukan untuk menyelesaikan latihan akan disediakan.
+
+Your Reservation Information for **PHX-POC025** (NX-3060).
+
+- Reservation ID: 78993
+- Start Date: 2019-11-27 20:00
+- Stop Date: 2019-12-04 20:00
+- Timezone: Singapore
+
+**Cluster IP**: https://10.42.25.37:9440/console/#login
+
+- Node: A CVM IP: 10.42.25.29 Hypervisor IP: 10.42.25.25 IPMI IP: 10.42.25.33
+- Node: B CVM IP: 10.42.25.30 Hypervisor IP: 10.42.25.26 IPMI IP: 10.42.25.34
+- Node: C CVM IP: 10.42.25.31 Hypervisor IP: 10.42.25.27 IPMI IP: 10.42.25.35
+- Node: D CVM IP: 10.42.25.32 Hypervisor IP: 10.42.25.28 IPMI IP: 10.42.25.36
+
+**CLUSTER CREATION DETAILS**
+
+- Number of Initial Nodes: all
+- AOS Version: 5.11.1
+- Hypervisor Version: AHV 20170830.301 (AOS 5.11+)
+
+
+**LOGIN CREDENTIALS**
+
+- Prism UI Credentials: admin/nut4nixP@ssw0rd
+- CVM Credentials: nutanix/nut4nixP@ssw0rd
+- Prism Central IP: 10.42.25.39 [10.42.25.39]
+- Prism Central Credentials: admin / nut4nixP@ssw0rd
+- AHV Host Credentials: root / nut4nixP@ssw0rd
+
+**NETWORK INFORMATION**
+
+- Subnet Mask: 255.255.255.128
+- Gateway: 10.42.251
+- Nameserver IP: 10.42.196.10
+
+
+**SECONDARY NETWORK INFORMATION**
+
+- Secondary VLAN: 251
+- Secondary Subnet: 255.255.255.128
+- Secondary Gateway: 10.42.25.129
+- Secondary IP Range: 10.42.25.132-254
+
+
 
 Overview
 ++++++++
