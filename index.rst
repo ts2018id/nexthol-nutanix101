@@ -98,8 +98,8 @@ Detail Environment
 
 
 
-Overview
-++++++++
+Pendahuluan
++++++++++++
 
 New to Nutanix and AHV? This lab is for you!
 
