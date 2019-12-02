@@ -113,12 +113,13 @@ Prism Element
 
 The Prism service provides the web UI for managing Nutanix clusters and runs on every Controller VM (CVM). This local Prism service, referred to Prism Element, can be accessed via the IP of any individual CVM, or via the virtual IP for the cluster, which will redirect to the current Prism leader.
 
-#. Open \https://<*NUTANIX-CLUSTER-IP*>:9440 in a new browser tab.
+#. Open \https://10.42.25.37:9440/console/#login in a new browser tab.
+   
 
 #. Log in using the following credentials:
 
    - **Username** - admin
-   - **Password** - *Password on HOL Splash Page*
+   - **Password** - *nut4nixP@ssw0rd*
 
    .. figure:: images/nutanix_tech_overview_01.png
 
