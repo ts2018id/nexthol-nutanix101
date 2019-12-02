@@ -10,7 +10,18 @@ Nutanix Datacenter Modernization
 
 Selamat datang di sesi Hands on Lab Nutanix Datacenter Modernization @.NEXT on Tour Jakarta!.
 
+Nutanix Workshops ini dirancang untuk lingkungan Nutanix Hosted POC, dimana semua images, network dan VMs yang diperlukan untuk menyelesaikan latihan akan disediakan.
+
+Your Reservation Information for **PHX-POC025** (NX-3060).
+
+- Reservation ID: 78993
+- Start Date: 2019-11-27 20:00
+- Stop Date: 2019-12-04 20:00
+- Timezone: Singapore
+
 Setiap sesi berisi teori dan latihan hands-on di Nutanix Enterprise Cloud platform. Instruktur akan membantu sesi latihan dan menjawab pertanyaan yang ada. Di akhir Bootcamp, perserta akan mengerti konsep dan teknologi stack Nutanix Enterprise Cloud.
+
+
 
 Level: Dasar (Basic)
 
@@ -18,7 +29,7 @@ Level: Dasar (Basic)
 Lab Access User Credentials
 ---------------------------
 
-Lab dapat diakses melalui Pulse Secure VPN Client. Gunakan credential dibawah ini untuk login ke Pulse Secure VPN.
+Lab dapat diakses melalui Pulse Secure VPN Client. Gunakan salah satu credential dibawah ini untuk login ke Pulse Secure VPN.
 
 - VPN User Accounts: PHX-POC025-User01, PHX-POC025-User02 … PHX-POC025-User20 etc.
 - VPN User Password: nut4nixP@ssw0rd
@@ -43,18 +54,11 @@ Lab dapat diakses melalui Pulse Secure VPN Client. Gunakan credential dibawah in
 
 6. Once setup, login with the supplied credentials
 
+Setelah login melalui VPN berhasil, gunakan browser untuk meng-akses CVM. 
+
 
 Detail Environment
 ++++++++++++++++++
-
-Nutanix Workshops dirancang untuk lingkungan Nutanix Hosted POC, dimana semua images, network dan VMs yang diperlukan untuk menyelesaikan latihan akan disediakan.
-
-Your Reservation Information for **PHX-POC025** (NX-3060).
-
-- Reservation ID: 78993
-- Start Date: 2019-11-27 20:00
-- Stop Date: 2019-12-04 20:00
-- Timezone: Singapore
 
 **Cluster IP**: https://10.42.25.37:9440/console/#login
 
