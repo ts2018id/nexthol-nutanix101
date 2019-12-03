@@ -110,6 +110,8 @@ New to Nutanix and AHV? This lab is for you!
 
 **Di Lab ini, kita akan meng-eksplor manajemen Nutanix yang disebut Prism Element(PE) untuk mengenal fitur dan menu navigasinya. Kita akan menggunakan PE untuk melakukan basic cluster administration, termasuk storage dan networking. Kita juga akan men-deploy VM dan melakukan tugas manajemen di Prism dan AHV. Selanjutnya kita juga akan meng-eksplor VM data protection, termasuk snapshots dan replication.**
 
+|
+
 Prism Element
 +++++++++++++
 
@@ -122,7 +124,7 @@ The Prism service provides the web UI for managing Nutanix clusters and runs on 
 
    - **Username** - admin
    - **Password** - *nut4nixP@ssw0rd*
-
+   
    .. figure:: images/nutanix_tech_overview_01.png
 
 #. After you log in to Prism Element, familiarize yourself with the Prism UI. Explore the information on the **Home** screen, as well as the other screens.
