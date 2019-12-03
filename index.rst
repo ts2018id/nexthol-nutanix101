@@ -25,6 +25,9 @@ Setiap sesi berisi teori dan latihan hands-on di Nutanix Enterprise Cloud platfo
 
 Level: **Dasar(Basic)**
 
+|
+|
+|
 
 Lab Access User Credentials
 ---------------------------
@@ -95,10 +98,9 @@ Detail Environment
 - Secondary Subnet: 255.255.255.128
 - Secondary Gateway: 10.42.25.129
 - Secondary IP Range: 10.42.25.132-254
-
-
-
-
+|
+|
+|
 
 
 Pendahuluan
@@ -106,7 +108,7 @@ Pendahuluan
 
 New to Nutanix and AHV? This lab is for you!
 
-**In this lab you will explore Prism Element and become familiar with its features and navigation. You will use Prism to perform basic cluster administration tasks, including storage and networking. You will also walk through basic VM deployment and management tasks with Prism and AHV. Finally, you will explore VM data protection, including snapshots and replication.**
+**Di Lab ini, kita akan meng-eksplor manajemen Nutanix yang disebut Prism Element(PE) untuk mengenal fitur dan menu navigasinya. Kita akan menggunakan PE untuk melakukan basic cluster administration, termasuk storage dan networking. Kita juga akan men-deploy VM dan melakukan tugas manajemen di Prism dan AHV. Selanjutnya kita juga akan meng-eksplor VM data protection, termasuk snapshots dan replication.**
 
 Prism Element
 +++++++++++++
