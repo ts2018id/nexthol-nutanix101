@@ -2,13 +2,13 @@
 
 .. _nutanix101:
 
---------------------------------
-Nutanix Datacenter Modernization
---------------------------------
+------------------------------
+Nutanix 101 - Fundamental Lab
+------------------------------
 
 *The estimated time to complete this lab is 60 minutes.*
 
-Selamat datang di sesi Hands on Lab Nutanix Datacenter Modernization @.NEXT on Tour Jakarta!.
+Selamat datang di sesi HOL Nutanix 101 - Fundamental Lab!.
 
 Nutanix Workshops ini dirancang untuk lingkungan Nutanix Hosted POC, dimana semua images, network dan VMs yang diperlukan untuk menyelesaikan latihan akan disediakan.
 
